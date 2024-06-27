@@ -1,0 +1,1 @@
+This is only the src folder part of a React Chakra project I made for Winc Academy. The app allows users to search for recipes. When clicking on a recipe a page opens with more information about the recipe.
