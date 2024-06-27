@@ -1,5 +1,5 @@
-import { RecipeList } from "../components/ui/RecipeList";
+import { RecipeSearch } from "../components/ui/RecipeSearch";
 
-export const RecipeListPage = ({ items, clickFn }) => {
-  return <RecipeList items={items} clickFn={clickFn}></RecipeList>;
+export const RecipeListPage = ({ clickFn }) => {
+  return <RecipeSearch clickFn={clickFn}></RecipeSearch>;
 };
